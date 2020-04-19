@@ -1,2 +1,2 @@
 # TestGit
-Formation à Git
+Formation à Git par Mohamed SARIH

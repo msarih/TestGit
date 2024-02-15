@@ -12,7 +12,7 @@ jobs:
       - name: Setup Webhook
         uses: peter-evans/create-pull-request@v3
         with:
-          token: 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
+          token: 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
           commit-message: "Add webhook"
           branch: "add-webhook"
           title: "Add webhook"
